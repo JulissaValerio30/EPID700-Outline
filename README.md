@@ -6,19 +6,19 @@ Several campaigns targeting sugary predators have been launched in New York City
 
 ## Introduction
 - Disease risk of excess SBB consumption among [adults.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2862465/#:~:text=SSB%20intake%20is%20a%20significant,of%20T2DM%20and%20cardiovascular%20disease.)
-- Influences of SBB consumption and individual behaviors.
-- Racial and ethnic disparities are prevalent in obesity among NYC adults.
-- Racial and ethnic disparities are prevalent in SSB consumption among NYC adults.
-- Geographic disparities in SSB consumption are prevalent in NYC neighborhoods.
-- There is a higher incidence of predatory marketing of SSB in lower-income NYC neighborhoods.
-- There is a higher availability of SSB in lower-income NYC neighborhoods.
-- There is interest in the re-investment of SSB tax revenue into NYC communities.
-- The Department of Health and Mental Hygiene has identified a plateau after the decline of SSB consumption across NYC neighborhoods.
-- The NYC Department of Health and Mental Hygiene has implemented a community framework to engage communities in response to public health issues that are prevalent.
-- Limitations are shown in studies that target the health messaging of socioeconomically disadvantaged adults.
-- The NYC Department of Health and Mental Hygiene has used a mixed-media strategy to disseminate advise against the consumption of SSB.
-- From 2017 to 2019 there has been an increase in community partnerships with the NYC Department of Health and Mental Hygiene to disseminate educational materials.
-- Studies have shown that there is a correlation between higher community social capital and population health outcomes.
+- Influences of SBB consumption and [individual behaviors.](https://pubmed.ncbi.nlm.nih.gov/24070799/)
+- Racial and ethnic disparities are prevalent in obesity among [NYC adults.](https://www.health.ny.gov/statistics/brfss/reports/docs/2023-04_obesity_disparities.pdf)
+- Racial and ethnic disparities are prevalent in SSB consumption among [NYC adults.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2329746/?version=meter+at+null&module=meter-Links&pgtype=Blogs&contentId=&mediaId=&referrer=&priority=true&action=click&contentCollection=meter-links-click)
+- Geographic disparities in SSB consumption are prevalent in NYC [neighborhoods.](https://www.nycfoodpolicy.org/wp-content/uploads/2017/03/FS10567_2017.pdf)
+- There is a higher incidence of predatory marketing of SSB in lower-income NYC [neighborhoods.](https://pubmed.ncbi.nlm.nih.gov/31917059/)
+- There is a higher availability of SSB in lower-income NYC [neighborhoods.](https://pubmed.ncbi.nlm.nih.gov/35557551/)
+- There is interest in the re-investment of SSB tax revenue into NYC [communities.](https://link.springer.com/article/10.1007/s10995-021-03255-8)
+- The Department of Health and Mental Hygiene has identified a [plateau](https://pubmed.ncbi.nlm.nih.gov/35557551/) after the decline of SSB consumption across NYC neighborhoods.
+- The NYC Department of Health and Mental Hygiene has implemented a community [framework](https://www.nyc.gov/assets/doh/downloads/pdf/che/community-engagement-framework.pdf) to engage communities in response to public health issues that are prevalent.
+- Limitations are shown in studies that target the health messaging of [socioeconomically disadvantaged adults.](https://journals.lww.com/jbisrir/fulltext/2020/07000/effects_of_health_literacy_interventions_on.3.aspx)
+- The NYC Department of Health and Mental Hygiene has used a [mixed-media strategy](https://www.nyc.gov/site/doh/about/press/pr2019/campaign-comparing-sugary-drinks-cigarettes.page) to disseminate advise against the consumption of SSB.
+- From 2017 to 2019 there has been an increase in community partnerships with the NYC Department of Health and Mental Hygiene to disseminate [educational materials.](https://www.nyc.gov/assets/doh/downloads/pdf/cdp/sugary-drink-handout-eng-sp.pdf)
+- Studies have shown that there is a correlation between [higher community social capital](https://pubmed.ncbi.nlm.nih.gov/37624595/) and population health outcomes.
 
 ## Methods
 - I will begin by analyzing current, ongoing print and media campaigns by the New York City Department of Health and Mental Hygiene against SSB.
