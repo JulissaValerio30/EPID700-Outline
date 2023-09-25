@@ -23,11 +23,11 @@ Several campaigns targeting sugary predators have been launched in New York City
 ## Methods
 - I will begin by analyzing current, ongoing print and media campaigns by the New York City Department of Health and Mental Hygiene against SSB.
 - I will analyze previous print and media campaigns from 2010-2020 by the New York City Department of Health and Mental Hygiene against SSB.
-- I will canvass available print campaigns targeted against the consumption of SSB located in NYC Neighborhood Action Centers.
+- I will canvass available print campaigns targeted against the consumption of SSB located in [NYC Neighborhood Action Centers.](https://www.nyc.gov/site/doh/health/neighborhood-health/neighborhood-health-action-centers.page)
 - Identify gaps in resource availability of  educational material of SSB
-- Using publicly available data from the NYC Community Health Survey, I will compute the average daily SSB consumption among adults from 2010-2020 of ages 18-65.
-- Using publicly available data from the NYC Community Health Survey, I will compute the average daily SSB consumption among adults from 2010-2020 by community districts identified by the NYC Department of Health and Mental Hygiene.
-- Using the data collected from the NYC Community Health Survey, I will compute the correlation between the printed availability of media campaigns and the consumption of SSBs between 2010-2020.
+- Using publicly available data from the [NYC Community Health Survey],(https://www.nyc.gov/site/doh/data/data-sets/community-health-survey-public-use-data.page) I will compute the average daily SSB consumption among adults from 2010-2020 of ages 18-65.
+- Using publicly available data from the [NYC Community Health Survey](https://www.nyc.gov/site/doh/data/data-sets/community-health-survey-public-use-data.page), I will compute the average daily SSB consumption among adults from 2010-2020 by community districts identified by the NYC Department of Health and Mental Hygiene.
+- Using the data collected from the [NYC Community Health Survey](https://www.nyc.gov/site/doh/data/data-sets/community-health-survey-public-use-data.page), I will compute the correlation between the printed availability of media campaigns and the consumption of SSBs between 2010-2020.
 - Assess the implementation of the NYC Department of Health and Mental Hygiene community framework with the distribution of educational materials.
 - Assess the timeframe between the updated media campaigns of SSB between 2010-2020.
 - Assess patterns related to SSB consumption and NYC SSB distribution of educational materials.
