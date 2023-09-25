@@ -5,7 +5,7 @@ Title: Assessing the Impact of Dissemination of Public Resources on the Risks of
 Several campaigns targeting sugary predators have been launched in New York City (NYC) in the recent decade to address the dangers of consuming sugar-sweetened beverages (SSBs). With a significant amount of evidence correlating the link between SSB consumption and co-morbidities such as obesity, type-2 diabetes, and heart disease, the New York City Department of Health and Mental Hygiene has launched several educational campaigns to advise on the dangers of SSB consumption and disseminate it across the five boroughs. The aim of this study is to evaluate the impact of publicly available public health materials on trends in SSB consumption among adults. Using data from the 2010–2020 NYC Community Health Survey (CHS), we are able to assess the effects of anti-SSB marketing conducted by the New York City Department of Health and Mental Hygiene on consumer behaviors and consumption. Comparing the dissemination of resources provided by the New York City Department of Health and Mental Hygiene would highlight potential gaps in resource availability and community engagement with educational programming. 
 
 ## Introduction
-*Disease risk of excess SBB consumption among adults.
+- Disease risk of excess SBB consumption among adults.
 *Influences of SBB consumption and individual behaviors.
 *Racial and ethnic disparities are prevalent in obesity among NYC adults.
 *Racial and ethnic disparities are prevalent in SSB consumption among NYC adults.
